@@ -1,4 +1,4 @@
-# Neural Network from Scratch (Micrograd)
+# Neural Network from Scratch
 
 A minimal neural network and autograd engine built from scratch in Python, inspired by Andrej Karpathy's micrograd.
 
